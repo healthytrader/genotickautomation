@@ -1,0 +1,684 @@
+Reading file data/reverse_xxx.csv
+Got 665 lines
+Reading file data/xxx.csv
+Got 665 lines
+Reading file data/reverse_xxx.csv
+Got 665 lines
+Reading file data/xxx.csv
+Got 665 lines
+startTimePoint 20050609
+endTimePoint 20050909
+populationDAO savedPopulation_24180
+performTraining false
+dataSettings data
+populationDesiredSize 1000
+processorInstructionLimit 256
+maximumDeathByAge 0.01
+maximumDeathByWeight 0.1
+probabilityOfDeathByAge 0.5
+probabilityOfDeathByWeight 0.5
+inheritedChildWeight 0.0
+dataMaximumOffset 256
+protectRobotsUntilOutcomes 100
+newInstructionProbability 0.01
+instructionMutationProbability 0.01
+skipInstructionProbability 0.01
+minimumOutcomesToAllowBreeding 50
+minimumOutcomesBetweenBreeding 50
+killNonPredictingRobots true
+randomRobotsAtEachUpdate 0.02
+protectBestRobots 0.02
+requireSymmetricalRobots true
+resultThreshold 1.0
+ignoreColumns 0
+tradeMode AT_NEXT_OPEN
+
+Openning account with 100000 cash
+Starting time point 20050609
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050609 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050609 for the next trade: UP
+Finished time point 20050609 with account value 100000.0000
+Starting time point 20050610
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.7891
+Opening data/reverse_xxx.csv trade. Quantity: -6972.6272, price: 7.1709
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050610 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050610 for the next trade: UP
+Finished time point 20050610 with account value 100000.0000
+Starting time point 20050613
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 22.9878, profit: 436.0465, current cash: 50436.0465
+Closing data/reverse_xxx.csv trade. Quantity -6972.6272, price: 7.1084, profit: 436.0465, current cash: 100872.0930
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.9878
+Opening data/reverse_xxx.csv trade. Quantity: -7095.3127, price: 7.1084
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050613 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050613 for the next trade: UP
+Finished time point 20050613 with account value 100872.0930
+Starting time point 20050614
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 22.8885, profit: -218.0233, current cash: 50218.0233
+Closing data/reverse_xxx.csv trade. Quantity -7095.3127, price: 7.1391, profit: -218.0233, current cash: 100436.0465
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.8885
+Opening data/reverse_xxx.csv trade. Quantity: -7034.2340, price: 7.1391
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050614 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050614 for the next trade: UP
+Finished time point 20050614 with account value 100436.0465
+Starting time point 20050615
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 22.3916, profit: -1090.1163, current cash: 49127.9070
+Closing data/reverse_xxx.csv trade. Quantity -7034.2340, price: 7.2941, profit: -1090.1163, current cash: 98255.8140
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.3916
+Opening data/reverse_xxx.csv trade. Quantity: -6735.3289, price: 7.2941
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050615 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050615 for the next trade: UP
+Finished time point 20050615 with account value 98255.8140
+Starting time point 20050616
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 22.1763, profit: -472.3837, current cash: 48655.5233
+Closing data/reverse_xxx.csv trade. Quantity -6735.3289, price: 7.3642, profit: -472.3837, current cash: 97311.0465
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.1763
+Opening data/reverse_xxx.csv trade. Quantity: -6607.0369, price: 7.3642
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050616 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050616 for the next trade: UP
+Finished time point 20050616 with account value 97311.0465
+Starting time point 20050617
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 22.1100, profit: -145.3488, current cash: 48510.1744
+Closing data/reverse_xxx.csv trade. Quantity -6607.0369, price: 7.3862, profit: -145.3488, current cash: 97020.3488
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.1100
+Opening data/reverse_xxx.csv trade. Quantity: -6567.6800, price: 7.3862
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050617 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050617 for the next trade: UP
+Finished time point 20050617 with account value 97020.3488
+Starting time point 20050620
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 22.0190, profit: -199.8547, current cash: 48310.3198
+Closing data/reverse_xxx.csv trade. Quantity -6567.6800, price: 7.4166, profit: -199.8547, current cash: 96620.6395
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.0190
+Opening data/reverse_xxx.csv trade. Quantity: -6513.7863, price: 7.4166
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050620 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050620 for the next trade: UP
+Finished time point 20050620 with account value 96620.6395
+Starting time point 20050621
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 22.1349, profit: 254.3605, current cash: 48564.6802
+Closing data/reverse_xxx.csv trade. Quantity -6513.7863, price: 7.3776, profit: 254.3605, current cash: 97129.3605
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.1349
+Opening data/reverse_xxx.csv trade. Quantity: -6582.7414, price: 7.3776
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050621 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050621 for the next trade: UP
+Finished time point 20050621 with account value 97129.3605
+Starting time point 20050622
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 22.1018, profit: -72.6744, current cash: 48492.0058
+Closing data/reverse_xxx.csv trade. Quantity -6582.7414, price: 7.3886, profit: -72.6744, current cash: 96984.0116
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 22.1018
+Opening data/reverse_xxx.csv trade. Quantity: -6563.0694, price: 7.3886
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050622 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050622 for the next trade: UP
+Finished time point 20050622 with account value 96984.0116
+Starting time point 20050623
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 21.7540, profit: -763.0814, current cash: 47728.9244
+Closing data/reverse_xxx.csv trade. Quantity -6563.0694, price: 7.5049, profit: -763.0814, current cash: 95457.8488
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 21.7540
+Opening data/reverse_xxx.csv trade. Quantity: -6359.7135, price: 7.5049
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050623 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050623 for the next trade: UP
+Finished time point 20050623 with account value 95457.8488
+Starting time point 20050624
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 21.5635, profit: -417.8779, current cash: 47311.0465
+Closing data/reverse_xxx.csv trade. Quantity -6359.7135, price: 7.5706, profit: -417.8779, current cash: 94622.0930
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 21.5635
+Opening data/reverse_xxx.csv trade. Quantity: -6249.3184, price: 7.5706
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050624 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050624 for the next trade: UP
+Finished time point 20050624 with account value 94622.0930
+Starting time point 20050627
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 21.2240, profit: -744.9128, current cash: 46566.1337
+Closing data/reverse_xxx.csv trade. Quantity -6249.3184, price: 7.6898, profit: -744.9128, current cash: 93132.2674
+Opening data/xxx.csv trade. Quantity: 2194.0331, price: 21.2240
+Opening data/reverse_xxx.csv trade. Quantity: -6055.5778, price: 7.6898
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050627 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050627 for the next trade: DOWN
+Finished time point 20050627 with account value 93132.2674
+Starting time point 20050628
+Closing data/xxx.csv trade. Quantity 2194.0331, price: 21.4144, profit: 417.8779, current cash: 46984.0116
+Closing data/reverse_xxx.csv trade. Quantity -6055.5778, price: 7.6208, profit: 417.8779, current cash: 93968.0233
+Opening data/xxx.csv trade. Quantity: -2194.0331, price: 21.4144
+Opening data/reverse_xxx.csv trade. Quantity: 6165.2457, price: 7.6208
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050628 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050628 for the next trade: DOWN
+Finished time point 20050628 with account value 93968.0233
+Starting time point 20050629
+Closing data/xxx.csv trade. Quantity -2194.0331, price: 21.0584, profit: 781.2500, current cash: 47765.2616
+Closing data/reverse_xxx.csv trade. Quantity 6165.2457, price: 7.7475, profit: 781.2500, current cash: 95530.5233
+Opening data/xxx.csv trade. Quantity: -2268.2317, price: 21.0584
+Opening data/reverse_xxx.csv trade. Quantity: 6165.2457, price: 7.7475
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050629 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050629 for the next trade: DOWN
+Finished time point 20050629 with account value 95530.5233
+Starting time point 20050630
+Closing data/xxx.csv trade. Quantity -2268.2317, price: 20.8513, profit: 469.5759, current cash: 48234.8375
+Closing data/reverse_xxx.csv trade. Quantity 6165.2457, price: 7.8237, profit: 469.5759, current cash: 96469.6751
+Opening data/xxx.csv trade. Quantity: -2313.2720, price: 20.8513
+Opening data/reverse_xxx.csv trade. Quantity: 6165.2457, price: 7.8237
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050630 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050630 for the next trade: DOWN
+Finished time point 20050630 with account value 96469.6751
+Starting time point 20050701
+Closing data/xxx.csv trade. Quantity -2313.2720, price: 20.7768, profit: 172.4041, current cash: 48407.2416
+Closing data/reverse_xxx.csv trade. Quantity 6165.2457, price: 7.8516, profit: 172.4041, current cash: 96814.4833
+Opening data/xxx.csv trade. Quantity: -2329.8678, price: 20.7768
+Opening data/reverse_xxx.csv trade. Quantity: 6165.2457, price: 7.8516
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050701 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050701 for the next trade: DOWN
+Finished time point 20050701 with account value 96814.4833
+Starting time point 20050705
+Closing data/xxx.csv trade. Quantity -2329.8678, price: 20.7354, profit: 96.4672, current cash: 48503.7088
+Closing data/reverse_xxx.csv trade. Quantity 6165.2457, price: 7.8673, profit: 96.4672, current cash: 97007.4177
+Opening data/xxx.csv trade. Quantity: -2339.1724, price: 20.7354
+Opening data/reverse_xxx.csv trade. Quantity: 6165.2457, price: 7.8673
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050705 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050705 for the next trade: DOWN
+Finished time point 20050705 with account value 97007.4177
+Starting time point 20050706
+Closing data/xxx.csv trade. Quantity -2339.1724, price: 20.5284, profit: 484.2623, current cash: 48987.9711
+Closing data/reverse_xxx.csv trade. Quantity 6165.2457, price: 7.9458, profit: 484.2623, current cash: 97975.9422
+Opening data/xxx.csv trade. Quantity: -2386.3522, price: 20.5284
+Opening data/reverse_xxx.csv trade. Quantity: 6165.2457, price: 7.9458
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050706 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050706 for the next trade: UP
+Finished time point 20050706 with account value 97975.9422
+Starting time point 20050707
+Closing data/xxx.csv trade. Quantity -2386.3522, price: 20.2468, profit: 671.8802, current cash: 49659.8513
+Closing data/reverse_xxx.csv trade. Quantity 6165.2457, price: 8.0548, profit: 671.8802, current cash: 99319.7026
+Opening data/xxx.csv trade. Quantity: 2452.7211, price: 20.2468
+Opening data/reverse_xxx.csv trade. Quantity: -6165.2457, price: 8.0548
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050707 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050707 for the next trade: UP
+Finished time point 20050707 with account value 99319.7026
+Starting time point 20050708
+Closing data/xxx.csv trade. Quantity 2452.7211, price: 20.7023, profit: 1117.0928, current cash: 50776.9441
+Closing data/reverse_xxx.csv trade. Quantity -6165.2457, price: 7.8736, profit: 1117.0928, current cash: 101553.8882
+Opening data/xxx.csv trade. Quantity: 2452.7211, price: 20.7023
+Opening data/reverse_xxx.csv trade. Quantity: -6449.0018, price: 7.8736
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050708 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050708 for the next trade: DOWN
+Finished time point 20050708 with account value 101553.8882
+Starting time point 20050711
+Closing data/xxx.csv trade. Quantity 2452.7211, price: 20.8513, profit: 365.5940, current cash: 51142.5381
+Closing data/reverse_xxx.csv trade. Quantity -6449.0018, price: 7.8169, profit: 365.5940, current cash: 102285.0762
+Opening data/xxx.csv trade. Quantity: -2452.7211, price: 20.8513
+Opening data/reverse_xxx.csv trade. Quantity: 6542.5409, price: 7.8169
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050711 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050711 for the next trade: DOWN
+Finished time point 20050711 with account value 102285.0762
+Starting time point 20050712
+Closing data/xxx.csv trade. Quantity -2452.7211, price: 21.0418, profit: -467.1479, current cash: 50675.3902
+Closing data/reverse_xxx.csv trade. Quantity 6542.5409, price: 7.7455, profit: -467.1479, current cash: 101350.7804
+Opening data/xxx.csv trade. Quantity: -2408.3192, price: 21.0418
+Opening data/reverse_xxx.csv trade. Quantity: 6542.5409, price: 7.7455
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050712 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050712 for the next trade: DOWN
+Finished time point 20050712 with account value 101350.7804
+Starting time point 20050713
+Closing data/xxx.csv trade. Quantity -2408.3192, price: 21.2902, profit: -598.2927, current cash: 50077.0975
+Closing data/reverse_xxx.csv trade. Quantity 6542.5409, price: 7.6541, profit: -598.2927, current cash: 100154.1950
+Opening data/xxx.csv trade. Quantity: -2352.1157, price: 21.2902
+Opening data/reverse_xxx.csv trade. Quantity: 6542.5409, price: 7.6541
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050713 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050713 for the next trade: DOWN
+Finished time point 20050713 with account value 100154.1950
+Starting time point 20050714
+Closing data/xxx.csv trade. Quantity -2352.1157, price: 21.8037, profit: -1207.6157, current cash: 48869.4818
+Closing data/reverse_xxx.csv trade. Quantity 6542.5409, price: 7.4695, profit: -1207.6157, current cash: 97738.9636
+Opening data/xxx.csv trade. Quantity: -2241.3438, price: 21.8037
+Opening data/reverse_xxx.csv trade. Quantity: 6542.5409, price: 7.4695
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050714 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050714 for the next trade: DOWN
+Finished time point 20050714 with account value 97738.9636
+Starting time point 20050715
+Closing data/xxx.csv trade. Quantity -2241.3438, price: 21.8451, profit: -92.8019, current cash: 48776.6799
+Closing data/reverse_xxx.csv trade. Quantity 6542.5409, price: 7.4553, profit: -92.8019, current cash: 97553.3598
+Opening data/xxx.csv trade. Quantity: -2232.8474, price: 21.8451
+Opening data/reverse_xxx.csv trade. Quantity: 6542.5409, price: 7.4553
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050715 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050715 for the next trade: DOWN
+Finished time point 20050715 with account value 97553.3598
+Starting time point 20050718
+Closing data/xxx.csv trade. Quantity -2232.8474, price: 21.5718, profit: 610.1707, current cash: 49386.8506
+Closing data/reverse_xxx.csv trade. Quantity 6542.5409, price: 7.5486, profit: 610.1707, current cash: 98773.7013
+Opening data/xxx.csv trade. Quantity: -2289.4186, price: 21.5718
+Opening data/reverse_xxx.csv trade. Quantity: 6542.5409, price: 7.5486
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050718 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050718 for the next trade: DOWN
+Finished time point 20050718 with account value 98773.7013
+Starting time point 20050719
+Closing data/xxx.csv trade. Quantity -2289.4186, price: 21.3316, profit: 549.7960, current cash: 49936.6467
+Closing data/reverse_xxx.csv trade. Quantity 6542.5409, price: 7.6326, profit: 549.7960, current cash: 99873.2933
+Opening data/xxx.csv trade. Quantity: -2340.9661, price: 21.3316
+Opening data/reverse_xxx.csv trade. Quantity: 6542.5409, price: 7.6326
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050719 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050719 for the next trade: UP
+Finished time point 20050719 with account value 99873.2933
+Starting time point 20050720
+Closing data/xxx.csv trade. Quantity -2340.9661, price: 21.3896, profit: -135.6974, current cash: 49800.9493
+Closing data/reverse_xxx.csv trade. Quantity 6542.5409, price: 7.6119, profit: -135.6974, current cash: 99601.8985
+Opening data/xxx.csv trade. Quantity: 2328.2779, price: 21.3896
+Opening data/reverse_xxx.csv trade. Quantity: -6542.5409, price: 7.6119
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050720 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050720 for the next trade: UP
+Finished time point 20050720 with account value 99601.8985
+Starting time point 20050721
+Closing data/xxx.csv trade. Quantity 2328.2779, price: 21.1660, profit: -520.5674, current cash: 49280.3818
+Closing data/reverse_xxx.csv trade. Quantity -6542.5409, price: 7.6914, profit: -520.5674, current cash: 98560.7637
+Opening data/xxx.csv trade. Quantity: 2328.2779, price: 21.1660
+Opening data/reverse_xxx.csv trade. Quantity: -6407.1780, price: 7.6914
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050721 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050721 for the next trade: DOWN
+Finished time point 20050721 with account value 98560.7637
+Starting time point 20050722
+Closing data/xxx.csv trade. Quantity 2328.2779, price: 21.3896, profit: 520.5674, current cash: 49800.9493
+Closing data/reverse_xxx.csv trade. Quantity -6407.1780, price: 7.6102, profit: 520.5674, current cash: 99601.8985
+Opening data/xxx.csv trade. Quantity: -2328.2779, price: 21.3896
+Opening data/reverse_xxx.csv trade. Quantity: 6543.9860, price: 7.6102
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050722 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050722 for the next trade: DOWN
+Finished time point 20050722 with account value 99601.8985
+Starting time point 20050725
+Closing data/xxx.csv trade. Quantity -2328.2779, price: 21.2323, profit: 366.3252, current cash: 50167.2745
+Closing data/reverse_xxx.csv trade. Quantity 6543.9860, price: 7.6662, profit: 366.3252, current cash: 100334.5489
+Opening data/xxx.csv trade. Quantity: -2362.7844, price: 21.2323
+Opening data/reverse_xxx.csv trade. Quantity: 6543.9860, price: 7.6662
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050725 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050725 for the next trade: UP
+Finished time point 20050725 with account value 100334.5489
+Starting time point 20050726
+Closing data/xxx.csv trade. Quantity -2362.7844, price: 21.4310, profit: -469.5845, current cash: 49697.6900
+Closing data/reverse_xxx.csv trade. Quantity 6543.9860, price: 7.5944, profit: -469.5845, current cash: 99395.3800
+Opening data/xxx.csv trade. Quantity: 2318.9615, price: 21.4310
+Opening data/reverse_xxx.csv trade. Quantity: -6543.9860, price: 7.5944
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050726 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050726 for the next trade: UP
+Finished time point 20050726 with account value 99395.3800
+Starting time point 20050727
+Closing data/xxx.csv trade. Quantity 2318.9615, price: 21.3896, profit: -96.0156, current cash: 49601.6744
+Closing data/reverse_xxx.csv trade. Quantity -6543.9860, price: 7.6091, profit: -96.0156, current cash: 99203.3487
+Opening data/xxx.csv trade. Quantity: 2318.9615, price: 21.3896
+Opening data/reverse_xxx.csv trade. Quantity: -6518.7489, price: 7.6091
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050727 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050727 for the next trade: UP
+Finished time point 20050727 with account value 99203.3487
+Starting time point 20050728
+Closing data/xxx.csv trade. Quantity 2318.9615, price: 21.4890, profit: 230.4375, current cash: 49832.1119
+Closing data/reverse_xxx.csv trade. Quantity -6518.7489, price: 7.5737, profit: 230.4375, current cash: 99664.2238
+Opening data/xxx.csv trade. Quantity: 2318.9615, price: 21.4890
+Opening data/reverse_xxx.csv trade. Quantity: -6579.6007, price: 7.5737
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050728 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050728 for the next trade: UP
+Finished time point 20050728 with account value 99664.2238
+Starting time point 20050729
+Closing data/xxx.csv trade. Quantity 2318.9615, price: 21.2323, profit: -595.2969, current cash: 49236.8150
+Closing data/reverse_xxx.csv trade. Quantity -6579.6007, price: 7.6642, profit: -595.2969, current cash: 98473.6300
+Opening data/xxx.csv trade. Quantity: 2318.9615, price: 21.2323
+Opening data/reverse_xxx.csv trade. Quantity: -6424.2560, price: 7.6642
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050729 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050729 for the next trade: UP
+Finished time point 20050729 with account value 98473.6300
+Starting time point 20050801
+Closing data/xxx.csv trade. Quantity 2318.9615, price: 21.2074, profit: -57.6094, current cash: 49179.2056
+Closing data/reverse_xxx.csv trade. Quantity -6424.2560, price: 7.6732, profit: -57.6094, current cash: 98358.4112
+Opening data/xxx.csv trade. Quantity: 2318.9615, price: 21.2074
+Opening data/reverse_xxx.csv trade. Quantity: -6409.2402, price: 7.6732
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050801 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050801 for the next trade: UP
+Finished time point 20050801 with account value 98358.4112
+Starting time point 20050802
+Closing data/xxx.csv trade. Quantity 2318.9615, price: 21.1660, profit: -96.0156, current cash: 49083.1900
+Closing data/reverse_xxx.csv trade. Quantity -6409.2402, price: 7.6882, profit: -96.0156, current cash: 98166.3799
+Opening data/xxx.csv trade. Quantity: 2318.9615, price: 21.1660
+Opening data/reverse_xxx.csv trade. Quantity: -6384.2626, price: 7.6882
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050802 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050802 for the next trade: DOWN
+Finished time point 20050802 with account value 98166.3799
+Starting time point 20050803
+Closing data/xxx.csv trade. Quantity 2318.9615, price: 21.3399, profit: 403.2656, current cash: 49486.4556
+Closing data/reverse_xxx.csv trade. Quantity -6384.2626, price: 7.6250, profit: 403.2656, current cash: 98972.9112
+Opening data/xxx.csv trade. Quantity: -2318.9615, price: 21.3399
+Opening data/reverse_xxx.csv trade. Quantity: 6490.0374, price: 7.6250
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050803 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050803 for the next trade: DOWN
+Finished time point 20050803 with account value 98972.9112
+Starting time point 20050804
+Closing data/xxx.csv trade. Quantity -2318.9615, price: 21.2157, profit: 288.0469, current cash: 49774.5025
+Closing data/reverse_xxx.csv trade. Quantity 6490.0374, price: 7.6694, profit: 288.0469, current cash: 99549.0050
+Opening data/xxx.csv trade. Quantity: -2346.1156, price: 21.2157
+Opening data/reverse_xxx.csv trade. Quantity: 6490.0374, price: 7.6694
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050804 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050804 for the next trade: DOWN
+Finished time point 20050804 with account value 99549.0050
+Starting time point 20050805
+Closing data/xxx.csv trade. Quantity -2346.1156, price: 21.0998, profit: 271.9918, current cash: 50046.4943
+Closing data/reverse_xxx.csv trade. Quantity 6490.0374, price: 7.7113, profit: 271.9918, current cash: 100092.9886
+Opening data/xxx.csv trade. Quantity: -2371.8971, price: 21.0998
+Opening data/reverse_xxx.csv trade. Quantity: 6490.0374, price: 7.7113
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050805 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050805 for the next trade: DOWN
+Finished time point 20050805 with account value 100092.9886
+Starting time point 20050808
+Closing data/xxx.csv trade. Quantity -2371.8971, price: 21.0418, profit: 137.4904, current cash: 50183.9847
+Closing data/reverse_xxx.csv trade. Quantity 6490.0374, price: 7.7325, profit: 137.4904, current cash: 100367.9694
+Opening data/xxx.csv trade. Quantity: -2384.9654, price: 21.0418
+Opening data/reverse_xxx.csv trade. Quantity: 6490.0374, price: 7.7325
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050808 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050808 for the next trade: DOWN
+Finished time point 20050808 with account value 100367.9694
+Starting time point 20050809
+Closing data/xxx.csv trade. Quantity -2384.9654, price: 21.6463, profit: -1441.7280, current cash: 48742.2567
+Closing data/reverse_xxx.csv trade. Quantity 6490.0374, price: 7.5103, profit: -1441.7280, current cash: 97484.5134
+Opening data/xxx.csv trade. Quantity: -2251.7577, price: 21.6463
+Opening data/reverse_xxx.csv trade. Quantity: 6490.0374, price: 7.5103
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050809 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050809 for the next trade: UP
+Finished time point 20050809 with account value 97484.5134
+Starting time point 20050810
+Closing data/xxx.csv trade. Quantity -2251.7577, price: 21.0915, profit: 1249.3233, current cash: 49991.5800
+Closing data/reverse_xxx.csv trade. Quantity 6490.0374, price: 7.7028, profit: 1249.3233, current cash: 99983.1600
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.0915
+Opening data/reverse_xxx.csv trade. Quantity: -6490.0374, price: 7.7028
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050810 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050810 for the next trade: UP
+Finished time point 20050810 with account value 99983.1600
+Starting time point 20050811
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.4310, profit: 804.7329, current cash: 50796.3129
+Closing data/reverse_xxx.csv trade. Quantity -6490.0374, price: 7.5788, profit: 804.7329, current cash: 101592.6259
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.4310
+Opening data/reverse_xxx.csv trade. Quantity: -6702.4010, price: 7.5788
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050811 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050811 for the next trade: UP
+Finished time point 20050811 with account value 101592.6259
+Starting time point 20050812
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.3316, profit: -235.5316, current cash: 50560.7814
+Closing data/reverse_xxx.csv trade. Quantity -6702.4010, price: 7.6140, profit: -235.5316, current cash: 101121.5627
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.3316
+Opening data/reverse_xxx.csv trade. Quantity: -6640.5326, price: 7.6140
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050812 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050812 for the next trade: UP
+Finished time point 20050812 with account value 101121.5627
+Starting time point 20050815
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.6712, profit: 804.7329, current cash: 51365.5143
+Closing data/reverse_xxx.csv trade. Quantity -6640.5326, price: 7.4928, profit: 804.7329, current cash: 102731.0286
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.6712
+Opening data/reverse_xxx.csv trade. Quantity: -6855.3349, price: 7.4928
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050815 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050815 for the next trade: UP
+Finished time point 20050815 with account value 102731.0286
+Starting time point 20050816
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.7457, profit: 176.6487, current cash: 51542.1630
+Closing data/reverse_xxx.csv trade. Quantity -6855.3349, price: 7.4670, profit: 176.6487, current cash: 103084.3260
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.7457
+Opening data/reverse_xxx.csv trade. Quantity: -6902.6493, price: 7.4670
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050816 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050816 for the next trade: UP
+Finished time point 20050816 with account value 103084.3260
+Starting time point 20050817
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.7705, profit: 58.8829, current cash: 51601.0459
+Closing data/reverse_xxx.csv trade. Quantity -6902.6493, price: 7.4585, profit: 58.8829, current cash: 103202.0918
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.7705
+Opening data/reverse_xxx.csv trade. Quantity: -6918.4388, price: 7.4585
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050817 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050817 for the next trade: UP
+Finished time point 20050817 with account value 103202.0918
+Starting time point 20050818
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.5966, profit: -412.1803, current cash: 51188.8656
+Closing data/reverse_xxx.csv trade. Quantity -6918.4388, price: 7.5181, profit: -412.1803, current cash: 102377.7312
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.5966
+Opening data/reverse_xxx.csv trade. Quantity: -6808.7881, price: 7.5181
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050818 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050818 for the next trade: UP
+Finished time point 20050818 with account value 102377.7312
+Starting time point 20050819
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.5055, profit: -215.9040, current cash: 50972.9616
+Closing data/reverse_xxx.csv trade. Quantity -6808.7881, price: 7.5498, profit: -215.9040, current cash: 101945.9233
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.5055
+Opening data/reverse_xxx.csv trade. Quantity: -6751.5932, price: 7.5498
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050819 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050819 for the next trade: UP
+Finished time point 20050819 with account value 101945.9233
+Starting time point 20050822
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.3068, profit: -471.0632, current cash: 50501.8985
+Closing data/reverse_xxx.csv trade. Quantity -6751.5932, price: 7.6195, profit: -471.0632, current cash: 101003.7969
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.3068
+Opening data/reverse_xxx.csv trade. Quantity: -6627.9471, price: 7.6195
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050822 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050822 for the next trade: UP
+Finished time point 20050822 with account value 101003.7969
+Starting time point 20050823
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.3648, profit: 137.3934, current cash: 50639.2919
+Closing data/reverse_xxx.csv trade. Quantity -6627.9471, price: 7.5988, profit: 137.3934, current cash: 101278.5838
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.3648
+Opening data/reverse_xxx.csv trade. Quantity: -6664.1090, price: 7.5988
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050823 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050823 for the next trade: UP
+Finished time point 20050823 with account value 101278.5838
+Starting time point 20050824
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 21.0335, profit: -785.1053, current cash: 49854.1866
+Closing data/reverse_xxx.csv trade. Quantity -6664.1090, price: 7.7166, profit: -785.1053, current cash: 99708.3732
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 21.0335
+Opening data/reverse_xxx.csv trade. Quantity: -6460.6247, price: 7.7166
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050824 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050824 for the next trade: UP
+Finished time point 20050824 with account value 99708.3732
+Starting time point 20050825
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 20.8679, profit: -392.5527, current cash: 49461.6339
+Closing data/reverse_xxx.csv trade. Quantity -6460.6247, price: 7.7774, profit: -392.5527, current cash: 98923.2679
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 20.8679
+Opening data/reverse_xxx.csv trade. Quantity: -6359.6775, price: 7.7774
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050825 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050825 for the next trade: UP
+Finished time point 20050825 with account value 98923.2679
+Starting time point 20050826
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 20.9756, profit: 255.1592, current cash: 49716.7932
+Closing data/reverse_xxx.csv trade. Quantity -6359.6775, price: 7.7373, profit: 255.1592, current cash: 99433.5863
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 20.9756
+Opening data/reverse_xxx.csv trade. Quantity: -6425.6334, price: 7.7373
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050826 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050826 for the next trade: UP
+Finished time point 20050826 with account value 99433.5863
+Starting time point 20050829
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 20.9921, profit: 39.2553, current cash: 49756.0484
+Closing data/reverse_xxx.csv trade. Quantity -6425.6334, price: 7.7312, profit: 39.2553, current cash: 99512.0968
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 20.9921
+Opening data/reverse_xxx.csv trade. Quantity: -6435.7885, price: 7.7312
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050829 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050829 for the next trade: UP
+Finished time point 20050829 with account value 99512.0968
+Starting time point 20050830
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 20.9424, profit: -117.7658, current cash: 49638.2826
+Closing data/reverse_xxx.csv trade. Quantity -6435.7885, price: 7.7494, profit: -117.7658, current cash: 99276.5652
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 20.9424
+Opening data/reverse_xxx.csv trade. Quantity: -6405.3952, price: 7.7494
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050830 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050830 for the next trade: UP
+Finished time point 20050830 with account value 99276.5652
+Starting time point 20050831
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 20.8596, profit: -196.2763, current cash: 49442.0063
+Closing data/reverse_xxx.csv trade. Quantity -6405.3952, price: 7.7801, profit: -196.2763, current cash: 98884.0126
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 20.8596
+Opening data/reverse_xxx.csv trade. Quantity: -6354.9391, price: 7.7801
+Adding pending trade DOWN for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050831 for the next trade: DOWN
+Adding pending trade UP for market data/xxx.csv
+data/xxx.csv prediction on 20050831 for the next trade: UP
+Finished time point 20050831 with account value 98884.0126
+Starting time point 20050901
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 20.4456, profit: -981.3816, current cash: 48460.6247
+Closing data/reverse_xxx.csv trade. Quantity -6354.9391, price: 7.9345, profit: -981.3816, current cash: 96921.2493
+Opening data/xxx.csv trade. Quantity: 2370.2247, price: 20.4456
+Opening data/reverse_xxx.csv trade. Quantity: -6107.5690, price: 7.9345
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050901 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050901 for the next trade: DOWN
+Finished time point 20050901 with account value 96921.2493
+Starting time point 20050902
+Closing data/xxx.csv trade. Quantity 2370.2247, price: 20.5035, profit: 137.3934, current cash: 48598.0181
+Closing data/reverse_xxx.csv trade. Quantity -6107.5690, price: 7.9120, profit: 137.3934, current cash: 97196.0362
+Opening data/xxx.csv trade. Quantity: -2370.2247, price: 20.5035
+Opening data/reverse_xxx.csv trade. Quantity: 6142.2993, price: 7.9120
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050902 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050902 for the next trade: DOWN
+Finished time point 20050902 with account value 97196.0362
+Starting time point 20050906
+Closing data/xxx.csv trade. Quantity -2370.2247, price: 20.8431, profit: -804.7329, current cash: 47793.2852
+Closing data/reverse_xxx.csv trade. Quantity 6142.2993, price: 7.7810, profit: -804.7329, current cash: 95586.5703
+Opening data/xxx.csv trade. Quantity: -2293.0064, price: 20.8431
+Opening data/reverse_xxx.csv trade. Quantity: 6142.2993, price: 7.7810
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050906 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050906 for the next trade: DOWN
+Finished time point 20050906 with account value 95586.5703
+Starting time point 20050907
+Closing data/xxx.csv trade. Quantity -2293.0064, price: 20.8845, profit: -94.9410, current cash: 47698.3442
+Closing data/reverse_xxx.csv trade. Quantity 6142.2993, price: 7.7656, profit: -94.9410, current cash: 95396.6884
+Opening data/xxx.csv trade. Quantity: -2283.9144, price: 20.8845
+Opening data/reverse_xxx.csv trade. Quantity: 6142.2993, price: 7.7656
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050907 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050907 for the next trade: DOWN
+Finished time point 20050907 with account value 95396.6884
+Starting time point 20050908
+Closing data/xxx.csv trade. Quantity -2283.9144, price: 20.6609, profit: 510.6484, current cash: 48208.9926
+Closing data/reverse_xxx.csv trade. Quantity 6142.2993, price: 7.8487, profit: 510.6484, current cash: 96417.9852
+Opening data/xxx.csv trade. Quantity: -2333.3458, price: 20.6609
+Opening data/reverse_xxx.csv trade. Quantity: 6142.2993, price: 7.8487
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050908 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050908 for the next trade: DOWN
+Finished time point 20050908 with account value 96417.9852
+Starting time point 20050909
+Closing data/xxx.csv trade. Quantity -2333.3458, price: 20.7354, profit: -173.9002, current cash: 48035.0924
+Closing data/reverse_xxx.csv trade. Quantity 6142.2993, price: 7.8204, profit: -173.9002, current cash: 96070.1849
+Opening data/xxx.csv trade. Quantity: -2316.5726, price: 20.7354
+Opening data/reverse_xxx.csv trade. Quantity: 6142.2993, price: 7.8204
+Adding pending trade UP for market data/reverse_xxx.csv
+data/reverse_xxx.csv prediction on 20050909 for the next trade: UP
+Adding pending trade DOWN for market data/xxx.csv
+data/xxx.csv prediction on 20050909 for the next trade: DOWN
+Finished time point 20050909 with account value 96070.1849
+Closing data/xxx.csv trade. Quantity -2316.5726, price: 20.7354, profit: 0.0000, current cash: 48035.0924
+Closing data/reverse_xxx.csv trade. Quantity 6142.2993, price: 7.8204, profit: 0.0000, current cash: 96070.1849
+Account closing with final value 96070.1849
+Execution time: 27 seconds.

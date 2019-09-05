@@ -1,0 +1,5 @@
+dataDirectory data
+startTimePoint	20050609
+endTimePoint	
+populationDAO	savedPopulation_24180
+performTraining false
