@@ -17,3 +17,4 @@ Then go into the genotick folder and adjust the w2.ksh file
 I've included 3 stocks in the dataset, you can load your own and test it that way on more symbols.
 
 This is my first public github project to be gentle on things :)
+use the genotick forum for questions, not sure how github works quite yet
